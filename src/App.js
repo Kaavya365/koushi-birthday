@@ -308,11 +308,11 @@ const handlePasswordSubmit = (e) => {
       description: 'Your roots, your home, your heart',
       emoji: '🏡',
       images: [
-        '${process.env.PUBLIC_URL}/images/family1.jpeg',
-        '${process.env.PUBLIC_URL}/images/family2.jpeg',
-        '${process.env.PUBLIC_URL}/images/family3.jpeg',
-        '${process.env.PUBLIC_URL}/images/family4.jpeg',
-        '${process.env.PUBLIC_URL}/images/family5.jpeg',
+        `${process.env.PUBLIC_URL}/images/family1.jpeg`,
+        `${process.env.PUBLIC_URL}/images/family2.jpeg`,
+        `${process.env.PUBLIC_URL}/images/family3.jpeg`,
+        `${process.env.PUBLIC_URL}/images/family4.jpeg`,
+        `${process.env.PUBLIC_URL}/images/family5.jpeg`,
       ]
     },
     {
@@ -323,14 +323,14 @@ const handlePasswordSubmit = (e) => {
       description: 'Where it all began',
       emoji: '🌻',
       images: [
-        '${process.env.PUBLIC_URL}/images/test.jpeg',
-        '${process.env.PUBLIC_URL}/images/sfriends1.jpeg',
-        '${process.env.PUBLIC_URL}/images/sfriends2.jpeg',
-        '${process.env.PUBLIC_URL}/images/sfriends3.jpeg',
-        '${process.env.PUBLIC_URL}/images/sfriends4.jpeg',
-        '${process.env.PUBLIC_URL}/images/sfriends5.jpeg',
-        '${process.env.PUBLIC_URL}/images/sfriends6.jpeg',
-        '${process.env.PUBLIC_URL}/images/sfriends7.jpeg',
+        `${process.env.PUBLIC_URL}/images/test.jpeg`,
+        `${process.env.PUBLIC_URL}/images/sfriends1.jpeg`,
+        `${process.env.PUBLIC_URL}/images/sfriends2.jpeg`,
+        `${process.env.PUBLIC_URL}/images/sfriends3.jpeg`,
+        `${process.env.PUBLIC_URL}/images/sfriends4.jpeg`,
+        `${process.env.PUBLIC_URL}/images/sfriends5.jpeg`,
+        `${process.env.PUBLIC_URL}/images/sfriends6.jpeg`,
+        `${process.env.PUBLIC_URL}/images/sfriends7.jpeg`,
       ]
     },
     {
@@ -341,18 +341,18 @@ const handlePasswordSubmit = (e) => {
       description: 'New chapters, new memories',
       emoji: '⭐',
       images: [
-        '${process.env.PUBLIC_URL}/images/cfriends.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends1.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends2.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends3.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends4.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends5.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends6.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends7.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends8.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends9.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends10.jpeg',
-        '${process.env.PUBLIC_URL}/images/cfriends11.jpeg'
+        `${process.env.PUBLIC_URL}/images/cfriends.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends1.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends2.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends3.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends4.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends5.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends6.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends7.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends8.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends9.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends10.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends11.jpeg`
       ]
     },
     {
