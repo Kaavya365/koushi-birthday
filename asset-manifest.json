@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/koushi-birthday/static/css/main.e6c13ad2.css",
-    "main.js": "/koushi-birthday/static/js/main.42130057.js",
+    "main.js": "/koushi-birthday/static/js/main.cccc8042.js",
     "static/js/453.550ceb5f.chunk.js": "/koushi-birthday/static/js/453.550ceb5f.chunk.js",
     "index.html": "/koushi-birthday/index.html",
     "main.e6c13ad2.css.map": "/koushi-birthday/static/css/main.e6c13ad2.css.map",
-    "main.42130057.js.map": "/koushi-birthday/static/js/main.42130057.js.map",
+    "main.cccc8042.js.map": "/koushi-birthday/static/js/main.cccc8042.js.map",
     "453.550ceb5f.chunk.js.map": "/koushi-birthday/static/js/453.550ceb5f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.42130057.js"
+    "static/js/main.cccc8042.js"
   ]
 }
