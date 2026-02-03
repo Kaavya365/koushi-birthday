@@ -344,9 +344,11 @@ const handlePasswordSubmit = (e) => {
         `${process.env.PUBLIC_URL}/images/cfriends.jpeg`,
         `${process.env.PUBLIC_URL}/images/cfriends1.jpeg`,
         `${process.env.PUBLIC_URL}/images/cfriends2.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends12.jpeg`,
         `${process.env.PUBLIC_URL}/images/cfriends3.jpeg`,
         `${process.env.PUBLIC_URL}/images/cfriends4.jpeg`,
         `${process.env.PUBLIC_URL}/images/cfriends5.jpeg`,
+        `${process.env.PUBLIC_URL}/images/cfriends13.jpeg`,
         `${process.env.PUBLIC_URL}/images/cfriends6.jpeg`,
         `${process.env.PUBLIC_URL}/images/cfriends7.jpeg`,
         `${process.env.PUBLIC_URL}/images/cfriends8.jpeg`,
@@ -475,6 +477,16 @@ const handlePasswordSubmit = (e) => {
           locked: false
         },
         {
+          title: 'The one from Neha',
+          content: 'Happieeee 19th, pakkiiii!! You already know how much you mean to me, so I don’t have to tell you all that… but just know that I loveeee youuuu soooo much. I’m here for you forever, and yesss—have an absolutely awesome year 🫶🏻✨',
+          locked: false
+        },
+        {
+          title: 'The one from Keshav',
+          content: 'Happy birthday to my best friend Koushitha 🥳🎉🎊 Always stay happy, funny, helpful and charming. Thanks for all the support, laughs and fun over the years and I hope it continues.... May god bless and grant all your dreams and wishes✨✨✨.',
+          locked: false
+        },
+        {
           title: 'The one from Jayani',
           content: 'Hi Koushii!! Wishing you a very happy and sweet 19th ! A girl with the brightest smile and the warmest hug ! The one who glides through situations like waves in the ocean..always coming back stronger and braver even when life takes a step back ! Never a dull moment with you ! I’ll be with you through all your thick and thin. Smile :) One of the greatest assets you carry wherever you go. No matter how hard things get everything will be okay one day ! Cheers to all the crazy talks and late night conversations ! The way you notice things even when we drift a little is something so special about you !! Thank you for always being there for me ! I love you 🫶🏻',
           locked: false
@@ -506,7 +518,7 @@ const handlePasswordSubmit = (e) => {
         },
         {
           title: 'The one from Kaavya',
-          content: "To the love of my life, You are genuinely my angel sent from heaven. Your smile has this magical way of making everyone’s world instantly feel lighter, softer, and a little more hopeful. Just a single hug from you can make all my weights disappear, like nothing bad ever existed in the first place. You have taught me so much in such a short period of time, but more than anything, you’ve taught me how to be kinder—to myself, to others, and to the world. The patience you carry, the love you give, and the way you show up for the people you care about is something that can’t really be put into words. I am so so so grateful and honoured to have you in my life and to call you my friend. You make life feel safer, warmer, and so much more joyful just by being in it. You’re my forever gym bro—the one person I know I’ll always show up with, pushing through workouts, hyping each other up, and laughing even when everything hurts. And no matter how busy life gets, I know we’ll always find our way back to our binge sessions and sleepovers (provided that there's a bigger bed 😭). Those moments with you, doing absolutely nothing and everything at the same time, mean more to me than you know. You’re my koala bear, my safe space, my constant. You make me so insanely happy. You make me laugh in a way no one else ever has, the kind of laughter that leaves my heart full. I can be completely myself, unfiltered, unguarded, and at peace. Since you get what you give, I hope this little corner of the internet makes you feel even a fraction of the love you pour into all of us every single day. Happy Birthday, my angel. Love you to the ends of the universe and back—always.",
+          content: "To the love of my life, You are genuinely my angel sent from heaven. Your smile has this magical way of making everyone’s world instantly feel lighter. Just a single hug from you can make all my weights disappear instantly. You've taught me so much in such a short period of time, but more than anything, you’ve taught me how to be kinder. The patience you carry, the love you give, and the way you show up for the people you care about is something that can’t really be put into words. I am so so so grateful and honoured to have you in my life and to call you my friend. You make life feel safer, warmer, and so much more joyful just by being in it. You’re my forever gym bro, the one person I know I’ll always show up with, pushing through workouts, hyping each other up, and laughing even when everything hurts. And no matter how busy life gets, I know we’ll always find our way back to our binge sessions and sleepovers (provided that there's a bigger bed 😭). Moments with you, doing absolutely nothing and everything at the same time, mean more to me than you know. You’re my koala bear, my safe space, my constant. You make me so insanely happy. You make me laugh in a way no one else ever has, the kind that leaves my heart full. I can be completely myself, unfiltered. Since you get what you give, I hope this little corner of the internet makes you feel even a fraction of the love you pour into all of us every single day. Happy Birthday, my angel. Love you to the ends of the universe and back—always.",
           locked: false
         }
       ]
